@@ -1,0 +1,14 @@
+Nodejs
+Permite o uso de JavaScript no backend, unificando a linguagem de desenvolvimento entre frontend e backend.
+É eficiente para aplicações de tempo real, como chats e streams, devido ao seu modelo de execução assíncrono.
+Conta com um vasto ecossistema de pacotes disponíveis no npm (Node Package Manager).
+
+React
+Simplifica a criação de interfaces de usuário dinâmicas e interativas.
+Facilita o gerenciamento de estados e componentes reutilizáveis.
+Permite a construção de aplicações responsivas e escaláveis com melhor organização do código.
+
+Git
+Facilitam o controle de versão do código, permitindo rastrear alterações e reverter problemas.
+Suportam colaboração entre desenvolvedores por meio de pull requests e revisão de código.
+Integram-se com ferramentas de CI/CD para automatizar testes e deploys.

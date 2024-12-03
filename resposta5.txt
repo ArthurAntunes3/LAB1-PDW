@@ -1,0 +1,4 @@
+Organização de Tarefas: Dividir o projeto em módulos, usar ferramentas como Trello para planejamento e documentar decisões.
+Escolha de Ferramentas: Usar HTML, CSS, JavaScript (com React ou Vue.js) para o frontend e Node.js com Express para o backend. Git para versionamento e GitHub ou GitLab para repositório.
+Boas Práticas: Criar branches para funcionalidades, realizar commits claros, implementar testes unitários e usar linters. Documentar o código e manter boa comunicação com Slack e Google Meet.
+Fluxo de Desenvolvimento: Usar CI/CD para automatizar testes e deploys e realizar peer reviews para garantir qualidade.
